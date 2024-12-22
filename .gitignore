@@ -1,0 +1,6 @@
+*.pdf
+production
+fp-info-cache
+kicad_split_left/platypus_split_left-backups
+kicad_split_right/platypus_split_right-backups
+kicad_split_template/platypus_split_template-backups
